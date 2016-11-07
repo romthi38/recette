@@ -1,2 +1,0 @@
-# recette
-TP sur GitHub
